@@ -21,6 +21,7 @@ provisioner:
 verifier:
   name: inspec
 
+# vagrant box listで表示されているものを指定する。
 platforms:
   - name: ubuntu-18.04
   - name: centos-7
