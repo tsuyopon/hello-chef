@@ -1,0 +1,7 @@
+{
+  "name": "linux",
+  "description": "this is linux server",
+  "run_list": [
+    "recipe[default]"
+  ]
+}

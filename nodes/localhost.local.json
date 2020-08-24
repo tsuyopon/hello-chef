@@ -1,0 +1,11 @@
+{
+  "name": "localhost.local",
+  "normal": {
+    "tags": [
+
+    ]
+  },
+  "run_list": [
+    "role[linux]"
+  ]
+}
