@@ -26,4 +26,5 @@ describe 'hello-chef::default' do
       expect { chef_run }.to_not raise_error
     end
   end
+
 end
